@@ -1,5 +1,6 @@
 *.gba
 *.elf
 *.sav
-data
+data/donut
+data/donut.h
 build
