@@ -55,7 +55,7 @@ def render_frame(A: float, B: float) -> np.ndarray:
 
 if __name__ == "__main__":
     with open("donut", "w") as output:
-        for _ in range(round(357)):
+        for _ in range(round(340)):
             A += theta_spacing
             B += phi_spacing
             for row in render_frame(A, B):

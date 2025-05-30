@@ -10,7 +10,7 @@
 
 #define COLUMNS 15
 #define ROWS 13
-#define FRAMES 355
+#define FRAMES 340
 
 #include "../data/donut.h"
 #include "soundbank.h"
